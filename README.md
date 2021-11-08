@@ -1,1 +1,1 @@
-运动想象数据采集实验
+Motor imagery data collection experiment
